@@ -24,7 +24,7 @@ function Header() {
         <div className="flex h-16 items-center justify-between">
           <Link to="/" className="flex items-center">
             <img 
-              src="/public/images/logo/AsYa_logo3.png" 
+              src="/images/logo/AsYa_logo3.png" 
               alt="ASYA Solutions logo" 
               className="h-10 w-auto"
             />

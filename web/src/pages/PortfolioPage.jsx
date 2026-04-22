@@ -9,20 +9,20 @@ function PortfolioPage() {
   const designs = [
     {
       id: 1,
-      image: '/public/images/designs/AsYa_design1.png',
+      image: '/images/designs/AsYa_design1.png',
       title: 'Power drill mechanism',
       description: 'Detailed utility patent illustration showcasing internal mechanical components and assembly structure',
       featured: true
     },
     {
       id: 2,
-      image: '/public/images/designs/AsYa_design2.png',
+      image: '/images/designs/AsYa_design2.png',
       title: 'Backhoe excavator',
       description: 'Technical drawing highlighting hydraulic systems and operational mechanisms'
     },
     {
       id: 3,
-      image: '/public/images/designs/AsYa_design3.png',
+      image: '/images/designs/AsYa_design3.png',
       title: 'Industrial machinery',
       description: 'Precision illustration of complex industrial equipment with detailed component views'
     }

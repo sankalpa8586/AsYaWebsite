@@ -17,7 +17,7 @@ function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           <div>
             <img 
-              src="/public/images/logo/AsYa_logo3.png" 
+              src="/images/logo/AsYa_logo3.png" 
               alt="ASYA Solutions logo" 
               className="h-10 w-auto mb-4"
             />

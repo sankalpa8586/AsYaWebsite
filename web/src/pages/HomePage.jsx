@@ -32,15 +32,15 @@ function HomePage() {
 
   const carouselImages = [
     {
-      src: '/public/images/designs/AsYa_design1.png',
+      src: '/images/designs/AsYa_design1.png',
       alt: 'Power drill design patent illustration showing internal mechanical components'
     },
     {
-      src: '/public/images/designs/AsYa_design2.png',
+      src: '/images/designs/AsYa_design2.png',
       alt: 'Agricultural and backhoe equipment technical drawing highlighting hydraulic systems'
     },
     {
-      src: '/public/images/designs/AsYa_design3.png',
+      src: '/images/designs/AsYa_design3.png',
       alt: 'Precision illustration of complex industrial machinery with detailed component views'
     }
   ];
@@ -64,7 +64,7 @@ function HomePage() {
             {/* Logo Watermark */}
             <div className="absolute inset-0 flex items-center justify-center pointer-events-none z-0 opacity-10">
               <img 
-                src="/public/images/logo/AsYa_logo3.png" 
+                src="/images/logo/AsYa_logo3.png" 
                 alt="" 
                 className="w-[80%] max-w-4xl object-contain"
               />
