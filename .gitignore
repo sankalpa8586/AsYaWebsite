@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite build output
+dist/
+
+# Local environment files
+.env
+.env.local
+
+# macOS system files
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Coverage reports
+coverage/
+
+# Public folder cache
+public/*.cache
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ignore lock files (optional, depending on your workflow)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
